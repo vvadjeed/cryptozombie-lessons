@@ -1,13 +1,13 @@
 ---
-title: Making the Zombie Factory
-header: Welcome, human!
+title: زامبی فکتوری بسازید
+header: خوش اومدی، انسان!
 roadmap: roadmap.jpg
 path: solidity
 ---
 
-So you think you have what it takes to become a **CryptoZombie**, huh?
+پس فکر می‌کنی جوهره‌اش رو داری که کریپتو زامبی بشی؟ هوم
 
-This course will teach you how to **build a game on Ethereum**.
+این دوره به تو یاد می‌ده چه‌طوری یه بازی روی اتریوم بسازی.
 
-It's designed for beginners to Solidity, but it assumes you have some experience
-programming in another language (e.g. Javascript).
+دوره‌ی حاضر برای متخصص شدنِ تازه‌کارها است اما براش لازمه که چیزهایی هم بدونی
+مثل برنامه‌نویسی به یک زبان دیگه (به عنوان مثال جاوا اسکریپت)
