@@ -1,6 +1,6 @@
 ---
-title: Struct و Arreys استفاده از
-actions: ['دیدن پاسخ', 'راه‌نمایی']
+title: Working With Structs and Arrays
+actions:  ['checkAnswer', 'hints']
 material:
   editor:
     language: sol
