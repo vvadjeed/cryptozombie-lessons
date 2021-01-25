@@ -39,7 +39,7 @@ material:
       }
 ---
 
-When you want a collection of something, you can use an **_array_**. There are two types of arrays in Solidity: **_fixed_** arrays and **_dynamic_** arrays:
+زمانی که می‌خواهید چیزی را جمع‌آوری کنید می‌توانید از **_آرایه_** استفاده کنید. دو شکل آرایه وجود دارد: آرایه‌های **_ثابت_** و آرایه‌های **_متغیر_**
 
 ```
 // Array with a fixed length of 2 elements:
@@ -50,7 +50,7 @@ string[5] stringArray;
 uint[] dynamicArray;
 ```
 
-You can also create an array of **_structs_**. Using the previous chapter's `Person` struct:
+شما همچنین می‌توانید آرایه ساختار بسازید. برای این کار می‌توانید از ساختار بخش قبلی استفاده کنید
 
 ```
 Person[] people; // dynamic Array, we can keep adding to it
